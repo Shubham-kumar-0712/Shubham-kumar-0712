@@ -1,4 +1,4 @@
-![logo](https://github.com/Shubham-kumar-0712/Shubham-kumar-0712/blob/main/github_banner.png)
+
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">Skilled Data Engineering</h3>
 
